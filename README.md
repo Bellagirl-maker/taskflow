@@ -134,15 +134,6 @@ If you like this project give me 5 stars ⭐️⭐️⭐️⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to acknowledge and thank minimalist as I used their to do list is a reference for this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
