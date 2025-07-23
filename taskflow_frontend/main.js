@@ -1,4 +1,4 @@
-const apiUrl = 'http://127.0.0.1:3000/api/lists';
+const apiUrl = 'https://taskflow-w3v6.onrender.com/api/lists';
 
 const form = document.getElementById('addListForm');
 const titleInput = document.getElementById('listTitle');
