@@ -8,7 +8,7 @@ class Api::TasksController < ApplicationController
         end
     end
     def update
-        task = task.find(params[:id])
+        task = Task.find(params[:id])
         if task.update(task_params)
             render json: task
         else
@@ -26,5 +26,4 @@ class Api::TasksController < ApplicationController
     def task_params
         params.require(:task).permit(:title, :completed, :list_id)
     end
-end
 end
